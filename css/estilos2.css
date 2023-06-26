@@ -1,0 +1,10 @@
+body{
+    background: radial-gradient(at top,blue,rgb(8, 121, 155));
+}
+.bg-light{
+    background-color: #f8f9fa3a!important;
+}
+h1{
+    -webkit-text-stroke:2px rgb(236, 232, 232);
+    color:#111313af;
+}
